@@ -1,2 +1,0 @@
-# HHDemo
-a text demo
